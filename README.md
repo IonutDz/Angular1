@@ -1,12 +1,54 @@
-**Hola [Nombre],**
+# Markdown Ejemplo
 
-Espero que estés teniendo un buen día. Quería hablar contigo acerca de nuestro próximo proyecto en **[Nombre del Proyecto]**. Creo que tu experiencia en **[Área Específica]** sería muy valiosa para el equipo.
+## Encabezados
 
-**¿Podríamos programar una reunión para discutir esto más a fondo?** Estoy disponible **[Días de la Semana]** a partir de las **[Horas Disponibles]**. ¿Te funciona alguno de esos horarios?
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-Agradezco tu tiempo y espero tu respuesta.
+## Texto Formateado
 
-*Saludos,*
+*Texto en cursiva* o _también así_.  
+**Texto en negrita** o __también así__.  
+~~Texto tachado~~.
 
-**[Tu Nombre]**
-[Tu Cargo]
+## Listas
+
+### Lista no ordenada
+
+- Elemento 1
+- Elemento 2
+  - Subelemento 2.1
+  - Subelemento 2.2
+
+### Lista ordenada
+
+1. Primer elemento
+2. Segundo elemento
+   1. Subelemento 2.1
+   2. Subelemento 2.2
+
+## Vínculos
+
+[Enlace a Google](https://www.google.com)
+
+## Imágenes
+
+![Descripción de la imagen](https://via.placeholder.com/150)
+
+## Citas
+
+> Esto es una cita.
+
+## Código
+
+### Código en línea
+
+`print("Hola, mundo")`
+
+### Bloques de código
+
+```javascript
+function saludar(){
+    console.log("Hola, mundo");
+}
