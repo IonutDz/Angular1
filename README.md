@@ -44,7 +44,7 @@
 
 ### Código en línea
 
-`print("Hola, mundo")`
+`console.log("Hola, mundo")`
 
 ### Bloques de código
 
